@@ -262,8 +262,8 @@ a { color: inherit; }
 .fab-btn svg { width: 26px; height: 26px; flex: none; }
 .fab-wa { background: #1DA851; }
 .fab-wa svg { fill: #fff; }
-.fab-call { background: var(--purple); }
-.fab-call svg { fill: none; stroke: #fff; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.fab-call { background: var(--orange); color: var(--purple-deep); }
+.fab-call svg { fill: none; stroke: var(--purple-deep); stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
 .enq-contact a, .or-line a { font-weight: 700; color: var(--purple); text-decoration: none; border-bottom: 1.5px solid var(--orange); }
 .enq-contact a:hover, .or-line a:hover { color: var(--orange-text); }
 .or-line { margin: var(--s2) 0 0; font-size: .93rem; color: var(--muted); text-align: center; }
